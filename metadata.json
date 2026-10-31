@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Gaming",
+  "description": "Cross-platform gaming social platform and dark dashboard for PC, Console, and Mobile players with friends, stats, custom session scheduling, voice rooms, chat, and instant replay highlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
